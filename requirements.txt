@@ -1,6 +1,6 @@
 # requirements.txt
-selenium
-webdriver
+selenium==4.30.0
+webdriver-manager
 selenium.webdriver.common.by
 selenium.webdriver.support.ui
 selenium.webdriver.support.expected_conditions
