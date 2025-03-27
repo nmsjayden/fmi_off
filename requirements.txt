@@ -1,18 +1,3 @@
 # requirements.txt
 selenium==4.30.0
 webdriver-manager
-selenium.webdriver.common.by
-selenium.webdriver.support.ui
-selenium.webdriver.support.expected_conditions
-selenium.webdriver.support.ui.Select
-selenium.common.exceptions.TimeoutException
-selenium.common.exceptions.StaleElementReferenceException
-os
-json
-subprocess
-re
-webbrowser
-sys
-random
-threading
-datetime
