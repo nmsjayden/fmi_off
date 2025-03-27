@@ -1,5 +1,4 @@
 # requirements.txt
-time
 selenium
 webdriver
 selenium.webdriver.common.by
